@@ -10,4 +10,4 @@ add this GitHub repository as a composer repository
  
 ```composer config repositories.m2_LessProcessor vcs https://github.com/tal-shulgin/m2_LessProcessor.git```
 
-``` composer require-dev shulgin/module-lessprocessor```
+``` composer require --dev shulgin/module-lessprocessor```
