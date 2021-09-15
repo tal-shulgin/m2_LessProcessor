@@ -1,0 +1,22 @@
+{
+    "name": "shulgin/module-lessprocessor",
+    "description": "less Processor",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "shulgin",
+            "email": "shulgin23@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Shulgin\\LessProcessor\\": ""
+        }
+    }
+}
